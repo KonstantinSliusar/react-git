@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-git"]=this["webpackJsonpreact-git"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);c(1);var r=c(3),n=c.n(r),s=c(0);var a=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("h1",{children:"Hello from React"})})};n.a.render(Object(s.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.5c11b96a.chunk.js.map
